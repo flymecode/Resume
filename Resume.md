@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/flymecode">CyC2018</a>
+             <a href="https://github.com/flymecode">MX2018</a>
          </span>
          ·
          <span>

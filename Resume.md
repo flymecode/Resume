@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/flymecode">CyC2018</a>
          </span>
          ·
          <span>
@@ -49,7 +49,7 @@
 
   使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
 
-  项目地址：[CS-Notes](https://github.com/CyC2018/CS-Notes)
+  项目地址：[MX-Notes](https://github.com/flymecode)
 
 ## 技能清单
 
